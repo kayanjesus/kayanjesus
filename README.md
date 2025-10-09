@@ -1,55 +1,68 @@
-<p align="left">👋 Olá! Eu sou o Kayan Jesus<br>💻 Desenvolvedor apaixonado por tecnologia e curioso sobre como os sistemas funcionam por trás dos bastidores.<br>🎓 Concluí o curso técnico em **Desenvolvimento de Sistemas** e atualmente curso **Técnico em Administração**.<br>🚀 Busco sempre aprender novas tecnologias, melhorar minhas habilidades e criar soluções práticas e eficientes.</p>
+<h2 align="left">About Me</h2>
 
----
+###
 
-### 🧰 Tecnologias
+<h4 align="left">💻 Developer passionate about technology and curious about how systems work behind the scenes.<br>🎓 Completed a technical course in Systems Development and currently studying Technical Administration.<br>🚀 Always seeking to learn new technologies, improve my skills, and create practical and efficient solutions.</h4>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayanjesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayanjesus&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
-<br>
-
-### 📫 Contatos
+###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kayanjesus" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayanjesus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayanjesus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayanjesus/kayanjesus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayanjesus/kayanjesus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kayanjesus/kayanjesus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/kayanjesus" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
-  <a href="mailto:kayandasilvajesus7@gmail.com" target="_blank">
+  <a href="kayandasilvajesus7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/kayan_silva_?igsh=MTlyaGVkOWF6d3dmOA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
----
-
-⭐ *“Code with logic, build with passion.”*
+###
