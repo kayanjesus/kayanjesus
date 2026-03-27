@@ -40,7 +40,7 @@
 <h2 align="left">Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayanjesus&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kayanjesus&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayanjesus&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" height="150" alt="Top Languages" />
 </div>
 
