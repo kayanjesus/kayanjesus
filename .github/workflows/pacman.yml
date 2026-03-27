@@ -19,13 +19,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Pacman Graph
+- name: Generate Pacman Graph
         uses: Platane/snk@v3
         with:
           github_user_name: kayanjesus
           outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=#f0ad4e&dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#f0ad4e
+            dist/pacman-contribution-graph.svg?color_snake=#f0ad4e&dots=#161b22,#40c463,#30a14e,#216e39,#0e4429
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#f0ad4e&color_dots=#161b22,#9be9a8,#40c463,#30a14e,#216e39
         # O parâmetro color_snake=#f0ad4e deixa a "cabeça" amarela como o Pacman
 
       - name: Push to output branch
