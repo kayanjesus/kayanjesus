@@ -24,8 +24,9 @@ jobs:
         with:
           github_user_name: kayanjesus
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?color_snake=#f0ad4e&dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#f0ad4e
+        # O parâmetro color_snake=#f0ad4e deixa a "cabeça" amarela como o Pacman
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
