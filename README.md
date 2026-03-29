@@ -1,17 +1,17 @@
 <h1 align="center">Dev - Kayan</h1>
 
-<h3 align="center">Backend • Cybersecurity • Cloud • DevOps</h3>
+<h3 align="center">Backend • AppSec • Cybersecurity • Cloud • DevOps</h3>
 
 ---
 
 <h2 align="left">About Me</h2>
 
 <h4 align="left">
-💻 Developer focused on Backend, Cybersecurity and Infrastructure.<br>
-🎓 Technical degree in Systems Development.<br>
-🚀 Currently deepening knowledge in Linux, Networking, Security and Cloud.<br>
-🔐 Interested in system internals, vulnerabilities and secure architectures.<br>
-⚙️ Exploring DevOps practices such as Docker, CI/CD and server deployment.
+💻 Developer focused on Backend and Application Security (AppSec).<br>
+🎓 Technical degree in Systems Development | Cursando Segurança da Informação.<br>
+🚀 Deepening knowledge in Linux, Networking, Web Security, DevSecOps, and Cloud.<br>
+🔐 Interested in vulnerabilities, secure architectures, and penetration testing.<br>
+⚙️ Exploring DevOps practices such as Docker, CI/CD, and server deployment.
 </h4>
 
 ---
