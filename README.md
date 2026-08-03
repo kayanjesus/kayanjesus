@@ -62,7 +62,7 @@
   <a href="https://www.linkedin.com/in/kayanjesus" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:kayandasilvajesus7@gmail.com" target="_blank">
+  <a href="mailto:contato.kayanjesus@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
     <a href="https://github.com/kayanjesus" target="_blank">
