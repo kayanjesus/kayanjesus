@@ -49,13 +49,13 @@ I'm focused on backend development with PHP and Laravel while expanding my knowl
 ## Contact
 
 <div align="left">
-<a href="https://kayanjesus.github.io/portfolio" target="_blank">
-  <img src="https://cdn.simpleicons.org/homepage/ffffff" height="40"/>
-</a>
-  <a href="https://www.linkedin.com/in/kayanjesus" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
   <a href="mailto:contato.kayanjesus@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/kayanjesus" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+<a href="https://kayanjesus.github.io/portfolio" target="_blank">
+  <img src="https://cdn.simpleicons.org/homepage/ffffff" height="40"/>
+</a>
 </div>
