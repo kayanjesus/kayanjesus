@@ -58,7 +58,4 @@ I'm focused on backend development with PHP and Laravel while expanding my knowl
   <a href="mailto:contato.kayanjesus@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://github.com/kayanjesus" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
 </div>
