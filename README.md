@@ -37,6 +37,9 @@ kayan@portfolio:~$ cat sobre_mim.txt
 </div>
 
 
+<br/>
+
+
 ```bash
 kayan@portfolio:~$ ./learning_progress.sh
 ```
