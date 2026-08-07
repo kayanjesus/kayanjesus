@@ -160,18 +160,9 @@ kayan@portfolio:~$ ls projects/
 ## 🤝 connect.sh
 
 <div align="center">
-
-
-<p align="center">
-
-<a href="https://kayanjesus.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41"></a>
-&nbsp;
-<a href="https://github.com/kayanjesus"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kayanjesus"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"></a>
-
-</p>
-
+  <a href="https://kayanjesus.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41"/></a>
+  <a href="https://www.linkedin.com/in/kayanjesus"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
+  <a href="mailto:contato.kayanjesus@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 </div>
 
 
