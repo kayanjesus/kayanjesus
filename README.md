@@ -129,9 +129,16 @@ kayan@portfolio:~$ ls projects/
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayanjesus&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kayanjesus&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true"/>
+<table>
+  <tr>
+    <td>
+     <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayanjesus&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true&include_all_commits=true"/>
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kayanjesus&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
