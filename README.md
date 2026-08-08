@@ -127,21 +127,16 @@ kayan@portfolio:~$ ls projects/
 
 ## 📊 github.status
 
+
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-     <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayanjesus&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true&include_all_commits=true"/>
-    </td>
-    <td>
-      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kayanjesus&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayanjesus&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayanjesus&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayanjesus&theme=github_dark&utcOffset=8) |
+| :-: | :-: | :-: |
 
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayanjesus&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kayanjesus&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00FF41&sideNums=FFFFFF&stroke=0D1117)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
 </div>
-
 
 ## 🕹️ contribution.exe
 
