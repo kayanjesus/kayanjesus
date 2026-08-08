@@ -130,12 +130,12 @@ kayan@portfolio:~$ ls projects/
 
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayanjesus&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayanjesus&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayanjesus&theme=github_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+  | <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kayanjesus&show_icons=true&include_all_commits=true&count_private=true&show=prs,issues,contribs&bg_color=0D1117&text_color=00FF41&icon_color=00FF41&ring_color=00FF41&border_color=00FF41" height="150"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayanjesus&theme=github_dark&bg_color=0D1117&text_color=00FF41&border_color=00FF41" height="150"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayanjesus&theme=github_dark&bg_color=0D1117&text_color=00FF41&border_color=00FF41&utcOffset=-3" height="150"/> |
+  | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayanjesus&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kayanjesus&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00FF41&sideNums=FFFFFF&stroke=0D1117)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
+  | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayanjesus&theme=github_dark&bg_color=0D1117&text_color=00FF41&border_color=00FF41" height="150"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=kayanjesus&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&currStreakNum=00FF41&sideNums=FFFFFF&stroke=0D1117" height="150"/> |
+  | :-: | :-: |
+
 </div>
 
 ## 🕹️ contribution.exe
